@@ -1,11 +1,6 @@
 # 🛡️ AI-Powered Animal Detection & Alert System  
 **Preventing Human-Wildlife Conflicts Through Deep Learning & IoT**
 
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/1a3c34/ffffff?text=AI+Animal+Detection+System" alt="Project Banner" width="800"/>
-  <br>
-  <em>Real-time dangerous wildlife detection with instant SMS alerts & GPS tracking</em>
-</p>
 
 ## 🎯 Project Overview
 
@@ -101,7 +96,7 @@ Human-wildlife conflicts in rural India lead to significant loss of life, livest
 
 ## 🔗 Resources
 
-- **GitHub Repository**: 
+- **GitHub Repository**: https://github.com/Yugal0708/AI-Powerd-Animal-Detection-Alert-System/tree/main
 - **Technical Documentation**: 
 - **Project Poster**: 
 
@@ -111,7 +106,7 @@ Open to collaborations, deployments, research partnerships, and funding discussi
 
 - **LinkedIn**: https://www.linkedin.com/in/yugal-bilawane-1b029b32b/
 - **Email**: yugalbilawane0514@gmail.com
-- **GitHub**: 
+- **GitHub**:  https://github.com/Yugal0708/
 
 > "Leveraging AI to protect lives and preserve wildlife — one detection at a time."
 
