@@ -97,8 +97,11 @@ Human-wildlife conflicts in rural India lead to significant loss of life, livest
 ## 🔗 Resources
 
 - **GitHub Repository**: https://github.com/Yugal0708/AI-Powerd-Animal-Detection-Alert-System/tree/main
-- **Technical Documentation**: 
-- **Project Poster**: 
+- 
+- **Technical Documentation**: https://www.canva.com/design/DAG-giLgCGU/kJEytcV_l726syO8OX7YBQ/edit?utm_content=DAG-giLgCGU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- 
+- **Project Poster**:
+- **Project Demo** : https://drive.google.com/file/d/1LBmTUsvzzKZtcjgPVD6Dka0L2jHqjF4f/view?usp=drivesdk
 
 ## 📞 Contact & Collaboration
 
